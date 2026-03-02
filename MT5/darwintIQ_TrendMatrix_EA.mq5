@@ -1,5 +1,9 @@
 //+------------------------------------------------------------------+
 //|                        darwintIQ_TrendMatrixEA.mq5               |
+//| What it does: Fetches the latest trend matrix snapshot and       |
+//| renders a compact multi-timeframe strength panel on the chart.   |
+//| Purpose: Lets a trader see directional bias and strength across  |
+//| key timeframes without leaving MetaTrader.                       |
 //+------------------------------------------------------------------+
 #property strict
 

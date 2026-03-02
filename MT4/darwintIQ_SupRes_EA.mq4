@@ -1,7 +1,9 @@
 //+------------------------------------------------------------------+
 //|                    darwintIQ_SupResEA.mq4                        |
-//|   Fetches "latest" SupRes snapshot from RapidAPI and renders     |
-//|   S/R levels (weighted), regression channel, and swing structure |
+//| What it does: Fetches the latest support/resistance snapshot and |
+//| draws S/R levels, a regression channel, and swing lines.         |
+//| Purpose: Gives a trader a visual overlay of the API output       |
+//| directly on the chart for quick discretionary analysis.          |
 //+------------------------------------------------------------------+
 #property strict
 
