@@ -40,3 +40,5 @@ These examples are intended to:
 - These examples are intentionally lightweight and use manual string-based JSON parsing to stay self-contained.
 - The MT5 files are direct ports of the MT4 examples and are meant to stay behaviorally aligned.
 - Depending on your broker symbol naming, you may need to adjust the symbol input parameters.
+
+  Learn more on [https://www.darwintIQ.com/docs]([link](https://www.darwintIQ.com/docs))
